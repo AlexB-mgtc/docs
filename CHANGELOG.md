@@ -10,6 +10,7 @@ and this project adheres to
 
 ### Added
 
+- ✨(helm) Service Account support for K8s Resources in Helm Charts #778
 - ✨(frontend) add duplicate action to doc tree #1175
 
 ### Changed
